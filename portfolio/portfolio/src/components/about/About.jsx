@@ -23,28 +23,26 @@ function About() {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>0+ Years Working</small>
-            </article>
-
-            <article className='about__card'>
-              <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>Not much :)</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>20+ Completed</small>
+              <small>Adds up to 4</small>
             </article>
 
          </div>
          
          <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non quae reprehenderit ducimus magnam voluptatem error ut, distinctio accusantium 
-          tempore dolorem delectus odit aliquam, quisquam unde est impedit aut ipsam tempora?
+          Hi! My name is Guilherme Matos and I'm a 2nd year Computer Science student at FCT | NOVA School of Science and Technology. My interest in web development
+          started back in 2018 when I found my self trying to build a copy of the snake game using only HTML and CSS (it didn't workout)!
          </p>
-         <a href='#contact' className='btn b'>Let's Talk</a>
+         <p>
+         In the present time, I'm having the priveledge of learning new technologies, however nothing beats web development for me. I'm currently building some self taught projects 
+         such as this portfolio.
+         </p>
+    
         </div>
       </div>
     </section>
